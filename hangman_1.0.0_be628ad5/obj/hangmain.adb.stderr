@@ -1,0 +1,8 @@
+hangmain.adb:2:09: warning: unit "Ada.integer_text_io" is not referenced [-gnatwu]
+hangmain.adb:3:20: warning: no entities of "Ada.Characters.Handling" are referenced [-gnatwu]
+hangmain.adb:3:31: warning: use clause for package "Handling" has no effect [-gnatwu]
+hangmain.adb:5:17: warning: no entities of "Ada.Strings.Maps" are referenced [-gnatwu]
+hangmain.adb:5:24: warning: use clause for package "Maps" has no effect [-gnatwu]
+hangmain.adb:7:18: warning: unit "Ada.Numerics.Discrete_Random" is not referenced [-gnatwu]
+hangmain.adb:8:09: warning: unit "ada.io_exceptions" is not referenced [-gnatwu]
+hangmain.adb:24:09: warning: variable "totalcount" is assigned but never read [-gnatwm]

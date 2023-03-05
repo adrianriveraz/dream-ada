@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__hangmain.o
+[PROJECT FILES]
+C:\Users\adria\OneDrive\Documents\GitHub\dream-ada\hangman_1.0.0_be628ad5\hangman.gpr
+20180311233528 ae73bf9ca2c77836c30f3f065515a89b
+[BOUND OBJECT FILES]
+C:\Users\adria\OneDrive\Documents\GitHub\dream-ada\hangman_1.0.0_be628ad5\obj\hangman.o
+C:\Users\adria\OneDrive\Documents\GitHub\dream-ada\hangman_1.0.0_be628ad5\obj\hangmain.o
+[GENERATED SOURCE FILES]
+b__hangmain.ads
+b__hangmain.adb
+b__hangmain.ali
+[RESULTING OPTIONS]
+-LC:\Users\adria\OneDrive\Documents\GitHub\dream-ada\hangman_1.0.0_be628ad5\obj\
+-LC:\Users\adria\OneDrive\Documents\GitHub\dream-ada\hangman_1.0.0_be628ad5\obj\
+-LC:/users/adria/.config/alire/cache/dependencies/gnat_native_12.2.1_c210a022/lib/gcc/x86_64-w64-mingw32/12.2.0/adalib/
+-static
+-static-libgcc
+C:/users/adria/.config/alire/cache/dependencies/gnat_native_12.2.1_c210a022/lib/gcc/x86_64-w64-mingw32/12.2.0/adalib/libgnat.a
+-Wl,--stack=0x2000000

@@ -1,0 +1,14 @@
+20230305183730
+-c
+-x
+ada
+-gnatA
+-g
+-gnatVa
+-gnatwa
+-g
+-O2
+-gnato
+-fstack-check
+-gnata
+-gnat12
